@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "dirt" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : 
 title_separator          : 
 name                     : &name 
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Robinson Dinh Huy Cung"
   pronouns         : "he/him"  
-  bio              : "CS MSc student @ EPFL"
+  bio              : "MSc Student and Research Scholar @ EPFL"
   location         : 
   employer         : 
   uri              : # URL
