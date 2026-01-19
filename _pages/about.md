@@ -11,6 +11,4 @@ I am a last year Communication Systems MSc student in the [Information Processin
 
 I am broadly interested in all mathematical aspects of information and coding theory, theoretical computer science, and statistics, and I tend to like subjects related to the interplay between construction and randomness. In particular, my research is focused on i) maximal leakage and information measures and ii) distributed hypothesis testing.
 
-I am currently working as a research engineer in the Advanced Wireless Technology Laboratory, headed by [Jean-Claude Belfiore](https://fr.linkedin.com/in/jcbelfiore). 
-
-Previously, I was as a research assistant in [CHILI Lab](https://www.epfl.ch/labs/chili/fr/chili/), where I developed StaticsVR, a VR application designed to teach statics to carpentry students, under the supervision of [Richard Lee Davis](https://www.kth.se/profile/rldavis). 
+I am currently working as a research engineer in the Advanced Wireless Technology Laboratory, Huawei Paris Research Center, headed by [Jean-Claude Belfiore](https://fr.linkedin.com/in/jcbelfiore). Previously, I was as a research assistant in [CHILI Lab](https://www.epfl.ch/labs/chili/fr/chili/), where I developed StaticsVR, a VR application designed to teach statics to carpentry students, under the supervision of [Richard Lee Davis](https://www.kth.se/profile/rldavis). 
