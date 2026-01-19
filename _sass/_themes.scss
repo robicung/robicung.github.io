@@ -22,6 +22,8 @@ $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 $sans-serif-narrow          : $sans-serif;
 $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
 
+$fira                       : Fira, sans-serif;
+
 /* Serif typefaces */
 $georgia                    : Georgia, serif;
 $times                      : Times, serif;
@@ -39,8 +41,8 @@ $type-size-6                : 0.75em;   // ~12px
 $type-size-7                : 0.6875em; // ~11px
 $type-size-8                : 0.625em;  // ~10px
 
-$global-font-family         : $serif;
-$header-font-family         : $monospace;
+$global-font-family         : $fira;
+$header-font-family         : $fira;
 $caption-font-family        : $garamond;
 
 /* ==========================================================================
