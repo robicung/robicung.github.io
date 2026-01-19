@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : 
 title_separator          : 
 name                     : &name 
@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Robinson Dinh Huy Cung"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"  
   bio              : "CS MSc student @ EPFL"
   location         : 
   employer         : 
@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=hdaPH84AAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # empty
