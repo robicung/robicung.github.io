@@ -23,7 +23,7 @@ repository               : "robicung/robicung.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo_website.jpg"
+  avatar           : "/files/photo_website.jpg"
   name             : "Robinson Dinh Huy Cung"
   pronouns         : "he/him"  
   bio              : "MSc Student and Research Scholar @ EPFL"
