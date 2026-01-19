@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: 
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 I am a last year Communication Systems MSc student in the [Information Processing Group](https://www.epfl.ch/schools/ic/ipg/) at [Ecole Polytechnique Fédérale de Lausanne](https://www.epfl.ch/en/), where I am fortunate to work as an [IC Research Scholar](https://www.epfl.ch/schools/ic/education/master/research-scholars/) under the supervision of [Yanina Shkel](https://theory.epfl.ch/yanina/). I also had the chance to collaborate with [Ibrahim Issa](https://www.aub.edu.lb/pages/profile.aspx?memberId=ii19), [Adway Girish](https://adwaygirish.github.io/) and [Emre Telatar](https://people.epfl.ch/emre.telatar).
 
-I am broadly interested in all mathematical aspects of information and coding theory, theoretical computer science, and statistics, although I tend to like subjects related to the interplay between construction and randomness. In particular, my research is focused on i) maximal leakage and information measures and ii) distributed hypothesis testing.
+I am broadly interested in all mathematical aspects of information and coding theory, theoretical computer science, and statistics, and I tend to like subjects related to the interplay between construction and randomness. In particular, my research is focused on i) maximal leakage and information measures and ii) distributed hypothesis testing.
 
 I am currently working as a research engineer in the Advanced Wireless Technology Laboratory, headed by [Jean-Claude Belfiore](https://fr.linkedin.com/in/jcbelfiore). 
 
