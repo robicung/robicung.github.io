@@ -1,9 +1,10 @@
 ---
 layout: archive
-title: 
+title: "Publications"
 permalink: /publications/
 author_profile: true
 author: default
+show_page_title: false
 ---
 
 Preprints.
