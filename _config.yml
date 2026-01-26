@@ -10,6 +10,7 @@
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Robinson Cung - EPFL"
+masthead_title           : "About me"  # Navigation
 title_separator          : 
 name                     : &name "Robinson Cung"
 description              : &description "MSc Student and Research Scholar at EPFL. Research in information theory, coding theory, and statistics."    # Update this with a general description of your site, this is the default if not overridden by a page
